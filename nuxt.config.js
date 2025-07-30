@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - john-qr-app',
-    title: 'john-qr-app',
+    titleTemplate: '%s - bryan-qr-app',
+    title: 'bryan-qr-app',
     htmlAttrs: {
       lang: 'en'
     },
