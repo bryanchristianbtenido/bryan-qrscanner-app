@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - john-qr-app',
-    title: 'john-qr-app',
+    titleTemplate: '%s - bryan-qr-app',
+    title: 'bryan-qr-app',
     htmlAttrs: {
       lang: 'en'
     },
@@ -56,7 +56,7 @@ export default {
     autoFetchUser: false,
     strategies:{
     google:{
-      clientId: process.env.GOOGLE_CLIENT_ID || '927360520753-9f91umjcjthrpg0nkl4eip8hiefcc947.apps.googleusercontent.com',
+      clientId: process.env.GOOGLE_CLIENT_ID || '906529550355-24u5tuiegbmkfvd066tv1ip9e7rrh0ii.apps.googleusercontent.com',
       scheme: "oauth2",
       endpoints:{
         authorization: "https://accounts.google.com/o/oauth2/auth",
